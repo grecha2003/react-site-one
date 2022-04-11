@@ -7,7 +7,7 @@ import {
   Form,
   Button,
 } from 'react-bootstrap';
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 import Home from '../Pages/Home';
 import About from '../Pages/About';
